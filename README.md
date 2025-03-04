@@ -1,6 +1,6 @@
 -👋 Hi, I’m @Ivan Paul
 -👀 I’m interested in Web Development of Business Applications
--🌱 I’m currently learning Deployment and Task management with Celery
+-🌱 I’m currently creating a new Portflio
 -💞️ I’m looking to collaborate on Business Applications
 -📫 How to reach me info@paul-ivan.com
 -⚡ Fun fact: Take a look at my repository to see my programming road up to now, started on 26.05.2024 https://paul-ivan.com
